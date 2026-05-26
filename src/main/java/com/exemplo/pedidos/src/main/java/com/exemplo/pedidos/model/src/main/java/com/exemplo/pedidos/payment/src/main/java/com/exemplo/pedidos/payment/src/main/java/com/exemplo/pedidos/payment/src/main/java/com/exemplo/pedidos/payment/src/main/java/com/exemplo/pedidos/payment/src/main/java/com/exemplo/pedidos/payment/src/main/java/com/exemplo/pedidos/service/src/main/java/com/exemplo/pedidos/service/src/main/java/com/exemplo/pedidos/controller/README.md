@@ -33,3 +33,22 @@ Exemplo de requisição:
   "metodoPagamento": "pix",
   "valor": 100
 }
+
+Exemplo de resposta:
+
+Pagamento via PIX aprovado: R$ 100
+
+---
+
+## 💻 Tecnologias
+
+- Java
+- Spring Boot
+- Spring Web
+- Maven
+
+---
+
+## 👨‍💻 Autor
+
+Projeto de estudo de Spring Boot + Design Patterns.
